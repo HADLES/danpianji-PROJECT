@@ -1,0 +1,9 @@
+.\objects\ili9341.o: ILI9341\ili9341.c
+.\objects\ili9341.o: .\LPC11XX\lpc11xx.h
+.\objects\ili9341.o: .\LPC11XX\core_cm0.h
+.\objects\ili9341.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ili9341.o: .\LPC11XX\core_cmInstr.h
+.\objects\ili9341.o: .\LPC11XX\core_cmFunc.h
+.\objects\ili9341.o: .\LPC11XX\system_LPC11xx.h
+.\objects\ili9341.o: ILI9341\ili9341.h
+.\objects\ili9341.o: ILI9341\ascii.h

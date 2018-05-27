@@ -1,0 +1,9 @@
+--cpu Cortex-M0+
+".\objects\system_lpc11xx.o"
+".\objects\startup_lpc11xx.o"
+".\objects\ili9341.o"
+".\objects\main.o"
+--strict --scatter ".\Objects\Ration_TFT.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Ration_TFT.map" -o .\Objects\Ration_TFT.axf

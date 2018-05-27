@@ -1,0 +1,26 @@
+Dependencies for Project 'Ration_TFT', Target '瑞生LPC1114 V3.1': (DO NOT MODIFY !)
+F (.\LPC11XX\system_LPC11xx.c)(0x5205B0E4)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I.\ILI9341 -I.\LPC11XX -I.\MAIN-I "E:\开发板资料\Cortex-M0 LPC1114\(瑞生)LPC1114V3.1光盘\1_例程\应用篇例程\【例程4】液晶显示器\【例程4.3】英文字符（内存）\RTE"-I D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.2.0\Device\Include\LPC11xx-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="513"-o .\objects\system_lpc11xx.o --omf_browse .\objects\system_lpc11xx.crf --depend .\objects\system_lpc11xx.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (LPC11XX\LPC11xx.h)(0x5205B0E4)
+I (LPC11XX\core_cm0.h)(0x5205B0E4)
+I (.\LPC11XX\core_cmInstr.h)(0x5205B0E4)
+I (.\LPC11XX\core_cmFunc.h)(0x5205B0E4)
+I (LPC11XX\system_LPC11xx.h)(0x5205B0E4)
+F (.\LPC11XX\startup_LPC11xx.s)(0x5205B0E4)(--cpu Cortex-M0+ -g --apcs=interwork -I "E:\开发板资料\Cortex-M0 LPC1114\(瑞生)LPC1114V3.1光盘\1_例程\应用篇例程\【例程4】液晶显示器\【例程4.3】英文字符（内存）\RTE"-I D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.2.0\Device\Include\LPC11xx-I D:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 513"--list .\listings\startup_lpc11xx.lst --xref -o .\objects\startup_lpc11xx.o --depend .\objects\startup_lpc11xx.d)
+F (.\ILI9341\ili9341.c)(0x54E018D6)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I.\ILI9341 -I.\LPC11XX -I.\MAIN-I "E:\开发板资料\Cortex-M0 LPC1114\(瑞生)LPC1114V3.1光盘\1_例程\应用篇例程\【例程4】液晶显示器\【例程4.3】英文字符（内存）\RTE"-I D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.2.0\Device\Include\LPC11xx-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="513"-o .\objects\ili9341.o --omf_browse .\objects\ili9341.crf --depend .\objects\ili9341.d)
+I (.\LPC11XX\lpc11xx.h)(0x5205B0E4)
+I (.\LPC11XX\core_cm0.h)(0x5205B0E4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\LPC11XX\core_cmInstr.h)(0x5205B0E4)
+I (.\LPC11XX\core_cmFunc.h)(0x5205B0E4)
+I (.\LPC11XX\system_LPC11xx.h)(0x5205B0E4)
+I (ILI9341\ili9341.h)(0x54E0182B)
+I (ILI9341\ascii.h)(0x54A54C15)
+F (.\MAIN\main.c)(0x54E018F3)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I.\ILI9341 -I.\LPC11XX -I.\MAIN-I "E:\开发板资料\Cortex-M0 LPC1114\(瑞生)LPC1114V3.1光盘\1_例程\应用篇例程\【例程4】液晶显示器\【例程4.3】英文字符（内存）\RTE"-I D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.2.0\Device\Include\LPC11xx-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="513"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\LPC11XX\lpc11xx.h)(0x5205B0E4)
+I (.\LPC11XX\core_cm0.h)(0x5205B0E4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\LPC11XX\core_cmInstr.h)(0x5205B0E4)
+I (.\LPC11XX\core_cmFunc.h)(0x5205B0E4)
+I (.\LPC11XX\system_LPC11xx.h)(0x5205B0E4)
+I (.\ILI9341\ili9341.h)(0x54E0182B)
